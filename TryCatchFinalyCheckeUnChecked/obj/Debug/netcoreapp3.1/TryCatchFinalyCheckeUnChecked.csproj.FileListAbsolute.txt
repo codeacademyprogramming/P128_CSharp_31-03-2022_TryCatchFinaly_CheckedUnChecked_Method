@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.exe
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.deps.json
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.dll
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\bin\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.pdb
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.dll
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.pdb
+C:\Users\memme\Desktop\P128\Task\TryCatchFinalyCheckeUnChecked\obj\Debug\netcoreapp3.1\TryCatchFinalyCheckeUnChecked.genruntimeconfig.cache
